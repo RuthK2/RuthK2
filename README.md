@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I'm an emerging Tech Enthusiast who is passionate about creating functional and efficient user friendly web applications that are centered on clients.<br>📚 I'm currently learning python programming language and Django Frameworks at Alx Africa.<br>🎯 Goals: I am always eager to contribute my key skills and help create meaningful impacts through code.<br>🎲 Fun fact: I love creating beautiful artwork.</p>
+<p align="left">✨ I'm an emerging Tech Enthusiast who is passionate about creating functional and efficient user friendly web applications that are centered on clients.<br>📚 I'm currently learning Python programming language and Django Frameworks at Alx Africa.<br>🎯 Goals: I am always eager to contribute my key skills and help create meaningful impacts through code.<br>🎲 Fun fact: I love creating beautiful artwork.</p>
 
 ###
 
