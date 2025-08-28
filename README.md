@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Ruth Kamau and I'm a Backend Developer from Kenya </p>
+<p align="left">My name is Ruth Kamau and I'm a Junior Backend Developer from Kenya </p>
 
 ###
 
